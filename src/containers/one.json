@@ -1,0 +1,41 @@
+[{
+    "id": "xxxx-xxxx-xxxx-xxxx",
+    "version": "2.0",
+    "name": "hellworld.txt",
+    "path": "base",
+    "attributes": {
+                    "lastModified": "2018-01-22",
+                    "createdBy": "Rizwan",
+                    "keywords": ["Test", "Test1", "Test2"],
+                    "docType": "d:common:faq",
+                    "id": "xxxx-xxxx-xxxx-xxxx",
+                    "title": "hello world",
+                    "locale": "",
+                    "contentStatus": "PUBLISHED"
+    },
+    "tags": [],
+    "pathTags": [],
+    "domain": "DIGITALCONTENT",
+    "mediaType": "text/plain",
+    "rootFolder": "ESI"
+}, {
+    "id": "xxxx-xxxx-xxxx-xxxx",
+    "version": "2.0",
+    "name": "hellworld1.txt",
+    "path": "base1",
+    "attributes": {
+                    "lastModified": "2018-01-22",
+                    "createdBy": "Rizwan",
+                    "keywords": ["Test", "Test1", "Test2"],
+                    "docType": "d:common:faq",
+                    "id": "xxxx-xxxx-xxxx-xxxx",
+                    "title": "hello world",
+                    "locale": "",
+                    "contentStatus": "PUBLISHED"
+    },
+    "tags": [],
+    "pathTags": [],
+    "domain": "DIGITALCONTENT",
+    "mediaType": "text/plain",
+    "rootFolder": "ESI"
+}]
